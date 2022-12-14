@@ -37,3 +37,7 @@
 <img style="width="50px"; height="40px" id="img1" src="./assets/techstack/sass.png" alt="tech stack">
 <img style="width="50px"; height="40px" id="img1" src="./assets/techstack/windows.png" alt="tech stack">
 </div>
+
+
+<h3>Stats 📊 : </h3>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonukryadav)](https://github.com/anuraghazra/github-readme-stats)
