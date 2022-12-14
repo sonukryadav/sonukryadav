@@ -17,7 +17,7 @@
 <h3>Tech stack that i know : </h3>
 <hr>
 <div style="display:flex;">
-<img src="./assets/techstack/bootstarp.png" alt="tech stack">
+<img width="30px" height="20px" src="./assets/techstack/bootstarp.png" alt="tech stack">
 <img src="./assets/techstack/chakraui.png" alt="tech stack">
 <img src="./assets/techstack/css.png" alt="tech stack">
 <img src="./assets/techstack/firebase.png" alt="tech stack">
