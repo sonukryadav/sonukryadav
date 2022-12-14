@@ -57,10 +57,14 @@
 
 <hr>
 <h3>GitHub Stat Trophies</h3>
+  
+  
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/sonukryadav)
 
 <hr>
 
 <h3>Streak Stats : </h3>
+  
+  
   [![GitHub Streak](https://streak-stats.demolab.com/?user=sonukryadav)](https://git.io/streak-stats)
 
