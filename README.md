@@ -16,6 +16,7 @@
 
 <h3>Tech stack that know : </h3>
 <hr>
+<div style="display:flex;"></div>
 <img src="./assets/javascript.svg" alt="tech stack">
 <img src="./assets/css.svg" alt="tech stack">
 <img src="./assets/html.svg" alt="tech stack">
