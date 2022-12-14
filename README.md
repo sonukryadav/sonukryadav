@@ -34,7 +34,6 @@
 <img style="width="50px"; height="40px" id="img1" src="./assets/techstack/react.png" alt="tech stack">
 <img style="width="50px"; height="40px" id="img1" src="./assets/techstack/redux.png" alt="tech stack">
 <img style="width="50px"; height="40px" id="img1" src="./assets/techstack/restapi.png" alt="tech stack">
-<img style="width="50px"; height="40px" id="img1" src="./assets/techstack" alt="tech stack">
 <img style="width="50px"; height="40px" id="img1" src="./assets/techstack/sass.png" alt="tech stack">
 <img style="width="50px"; height="40px" id="img1" src="./assets/techstack/windows.png" alt="tech stack">
 </div>
