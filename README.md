@@ -2,11 +2,11 @@
 
 <h1>Hi 🖐️ there! Good to see you. </h1>
 <hr>
-<h2>Welcome to my github space!</h2>
-<h3>I'm Sonu kumar Yadav, full stack developer from Uttar Pradesh, India. 🖐️</h3>
+<h2>Welcome to my Github space!</h2>
+<h3>I'm Sonu kumar Yadav, Full stack developer from Uttar Pradesh, India. 🖐️</h3>
 
-<a href="https://drive.google.com/file/d/1rNt7Y5VTeFUusZLMg9hOUQGh_wYduH79/view?usp=share_link">RESUME</a>
-<a href="https://sonukr.in/">PORTFOLIO</a>
+➡️ <a href="https://drive.google.com/file/d/1rNt7Y5VTeFUusZLMg9hOUQGh_wYduH79/view?usp=share_link">RESUME 📃</a>↔
+<a href="https://sonukr.in/">PORTFOLIO 🖥️</a>
 
 <h3>Socials</h3>
 <hr>
