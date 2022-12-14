@@ -2,7 +2,6 @@
 
 <hr>
 ![](https://komarev.com/ghpvc/?username=sonukryadav)
-![Profile views](https://gpvc.arturio.dev/sonukryadav)
 <h1>Hi 🖐️ there! Good to see you. </h1>
 <hr>
 <h2>Welcome to my Github space!</h2>
