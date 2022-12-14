@@ -15,6 +15,8 @@
 <a href="https://twitter.com/SonuKr52616462"><img src="./assets/twitter.svg"></a>
 <a href="https://medium.com/@sonukryadav56"><img src="./assets/medium icon.svg"></a>
 
+<h3>Email : sonukryadav56@gmail.com</h3>
+
 <hr>
 <h3>Tech stack that I know : </h3>
 
