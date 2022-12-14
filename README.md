@@ -2,6 +2,7 @@
 
 <hr>
 ![](https://komarev.com/ghpvc/?username=sonukryadav)
+![Profile views](https://gpvc.arturio.dev/sonukryadav)
 <h1>Hi 🖐️ there! Good to see you. </h1>
 <hr>
 <h2>Welcome to my Github space!</h2>
@@ -49,6 +50,6 @@
 <h3>Stats 📊 : </h3>
 
 [![Sonu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonukryadav&count_private=true&show_icons=true&theme=flag-india&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-     
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonukryadav&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
