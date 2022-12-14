@@ -40,4 +40,4 @@
 
 
 <h3>Stats 📊 : </h3>
-[![Sarvesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SarveshMishra&count_private=true&show_icons=true&theme=flag-india&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Sonu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonukryadav&count_private=true&show_icons=true&theme=flag-india&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
