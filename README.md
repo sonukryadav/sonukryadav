@@ -23,7 +23,7 @@
 <h2>Email : sonukryadav56@gmail.com</h2>
 
 <hr>
-<h2>Tech stack that I know : </h2>
+<h2>Tech stack that I know  </h2>
 
 <div style="display:"flex";">
 <img style="width="50px" height="40px" src="./assets/techstack/bootstarp.png" alt="tech stack">
@@ -49,7 +49,7 @@
 
 <hr>
 
-<h2>Stats 📊 : </h2>
+<h2>Stats 📊  </h2>
 
 [![Sonu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonukryadav&count_private=true&show_icons=true&theme=flag-india&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -63,7 +63,7 @@
 
 <hr>
 
-<h2>Streak Stats : </h2>
+<h2>Streak Stats  </h2>
   
   
   [![GitHub Streak](https://streak-stats.demolab.com/?user=sonukryadav)](https://git.io/streak-stats)
