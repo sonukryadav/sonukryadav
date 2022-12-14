@@ -14,16 +14,16 @@
 <a href="https://sonukr.in/">PORTFOLIO 🖥️</a>
 
 <hr>
-<h3>Socials</h3>
+<h2>Socials</h2>
 
 <a href="https://www.linkedin.com/in/sonu-kumar-yadav-0a609b180/"><img src="./assets/linked in.svg"></a>
 <a href="https://twitter.com/SonuKr52616462"><img src="./assets/twitter.svg"></a>
 <a href="https://medium.com/@sonukryadav56"><img src="./assets/medium icon.svg"></a>
 
-<h3>Email : sonukryadav56@gmail.com</h3>
+<h2>Email : sonukryadav56@gmail.com</h2>
 
 <hr>
-<h3>Tech stack that I know : </h3>
+<h2>Tech stack that I know : </h2>
 
 <div style="display:"flex";">
 <img style="width="50px" height="40px" src="./assets/techstack/bootstarp.png" alt="tech stack">
@@ -49,21 +49,21 @@
 
 <hr>
 
-<h3>Stats 📊 : </h3>
+<h2>Stats 📊 : </h2>
 
 [![Sonu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonukryadav&count_private=true&show_icons=true&theme=flag-india&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonukryadav&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
-<h3>GitHub Stat Trophies</h3>
+<h2>GitHub Stat Trophies</h2>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/sonukryadav)
 
 <hr>
 
-<h3>Streak Stats : </h3>
+<h2>Streak Stats : </h2>
   
   
   [![GitHub Streak](https://streak-stats.demolab.com/?user=sonukryadav)](https://git.io/streak-stats)
