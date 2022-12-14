@@ -16,10 +16,11 @@
 
 <h3>Tech stack that know : </h3>
 <hr>
-<div style="display:flex;"></div>
+<div style="display:flex;">
 <img src="./assets/javascript.svg" alt="tech stack">
 <img src="./assets/css.svg" alt="tech stack">
 <img src="./assets/html.svg" alt="tech stack">
 <img src="./assets/nodejs.svg" alt="tech stack">
 <img src="./assets/react.svg" alt="tech stack">
 <img src="./assets/redux.svg" alt="tech stack">
+</div>
