@@ -25,7 +25,7 @@
 <hr>
 <h3>Tech stack that I know : </h3>
 
-<div style="display:flex;">
+<div style="display:"flex";">
 <img style="width="50px" height="40px" src="./assets/techstack/bootstarp.png" alt="tech stack">
 <img style="width="50px" height="40px" id="img1" src="./assets/techstack/chakraui.png" alt="tech stack">
 <img style="width="50px" height="40px" id="img1" src="./assets/techstack/css.png" alt="tech stack">
@@ -57,8 +57,8 @@
 
 <hr>
 <h3>GitHub Stat Trophies</h3>
-  
-  
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/sonukryadav)
 
 <hr>
@@ -67,4 +67,8 @@
   
   
   [![GitHub Streak](https://streak-stats.demolab.com/?user=sonukryadav)](https://git.io/streak-stats)
+
+
+
+  <iframe src="https://dreamy-frangipane-645120.netlify.app/" width="150px" height="150px"></iframe>
 
