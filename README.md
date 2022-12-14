@@ -3,19 +3,21 @@
 <h1>Hi 🖐️ there! Good to see you. </h1>
 <hr>
 <h2>Welcome to my Github space!</h2>
-<h3>I'm Sonu kumar Yadav, Full stack developer from Uttar Pradesh, India. 🖐️</h3>
+<h3>I'm Sonu kumar Yadav, Full stack developer from Uttar Pradesh, India.</h3>
 
 ➡️ <a href="https://drive.google.com/file/d/1rNt7Y5VTeFUusZLMg9hOUQGh_wYduH79/view?usp=share_link">RESUME 📃</a>↔
 <a href="https://sonukr.in/">PORTFOLIO 🖥️</a>
 
-<h3>Socials</h3>
 <hr>
+<h3>Socials</h3>
+
 <a href="https://www.linkedin.com/in/sonu-kumar-yadav-0a609b180/"><img src="./assets/linked in.svg"></a>
 <a href="https://twitter.com/SonuKr52616462"><img src="./assets/twitter.svg"></a>
 <a href="https://medium.com/@sonukryadav56"><img src="./assets/medium icon.svg"></a>
 
-<h3>Tech stack that i know : </h3>
 <hr>
+<h3>Tech stack that I know : </h3>
+
 <div style="display:flex;">
 <img style="width="50px"; height="40px" src="./assets/techstack/bootstarp.png" alt="tech stack">
 <img style="width="50px"; height="40px" id="img1" src="./assets/techstack/chakraui.png" alt="tech stack">
