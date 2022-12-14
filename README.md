@@ -17,24 +17,24 @@
 <h3>Tech stack that i know : </h3>
 <hr>
 <div style="display:flex;">
-<img width="30px" height="20px" src="./assets/techstack/bootstarp.png" alt="tech stack">
-<img src="./assets/techstack/chakraui.png" alt="tech stack">
-<img src="./assets/techstack/css.png" alt="tech stack">
-<img src="./assets/techstack/firebase.png" alt="tech stack">
-<img src="./assets/techstack/git.png" alt="tech stack">
-<img src="./assets/techstack/github.png" alt="tech stack">
-<img src="./assets/techstack/html.png" alt="tech stack">
-<img src="./assets/techstack/intelij.png" alt="tech stack">
-<img src="./assets/techstack/java.png" alt="tech stack">
-<img src="./assets/techstack/javascript.png" alt="tech stack">
-<img src="./assets/techstack/material ui.png" alt="tech stack">
-<img src="./assets/techstack/nodejs.png" alt="tech stack">
-<img src="./assets/techstack/npm'.png" alt="tech stack">
-<img src="./assets/techstack/postman.png" alt="tech stack">
-<img src="./assets/techstack/react.png" alt="tech stack">
-<img src="./assets/techstack/redux.png" alt="tech stack">
-<img src="./assets/techstack/restapi.png" alt="tech stack">
-<img src="./assets/techstack" alt="tech stack">
-<img src="./assets/techstack/sass.png" alt="tech stack">
-<img src="./assets/techstack/windows.png" alt="tech stack">
+<img style="width=50px; height="40px" src="./assets/techstack/bootstarp.png" alt="tech stack">
+<img style="width=50px; height="40px" id="img1" src="./assets/techstack/chakraui.png" alt="tech stack">
+<img style="width=50px; height="40px" id="img1" src="./assets/techstack/css.png" alt="tech stack">
+<img style="width=50px; height="40px" id="img1" src="./assets/techstack/firebase.png" alt="tech stack">
+<img style="width=50px; height="40px" id="img1" src="./assets/techstack/git.png" alt="tech stack">
+<img style="width=50px; height="40px" id="img1" src="./assets/techstack/github.png" alt="tech stack">
+<img style="width=50px; height="40px" id="img1" src="./assets/techstack/html.png" alt="tech stack">
+<img style="width=50px; height="40px" id="img1" src="./assets/techstack/intelij.png" alt="tech stack">
+<img style="width=50px; height="40px" id="img1" src="./assets/techstack/java.png" alt="tech stack">
+<img style="width=50px; height="40px" id="img1" src="./assets/techstack/javascript.png" alt="tech stack">
+<img style="width=50px; height="40px" id="img1" src="./assets/techstack/material ui.png" alt="tech stack">
+<img style="width=50px; height="40px" id="img1" src="./assets/techstack/nodejs.png" alt="tech stack">
+<img style="width=50px; height="40px" id="img1" src="./assets/techstack/npm'.png" alt="tech stack">
+<img style="width=50px; height="40px" id="img1" src="./assets/techstack/postman.png" alt="tech stack">
+<img style="width=50px; height="40px" id="img1" src="./assets/techstack/react.png" alt="tech stack">
+<img style="width=50px; height="40px" id="img1" src="./assets/techstack/redux.png" alt="tech stack">
+<img style="width=50px; height="40px" id="img1" src="./assets/techstack/restapi.png" alt="tech stack">
+<img style="width=50px; height="40px" id="img1" src="./assets/techstack" alt="tech stack">
+<img style="width=50px; height="40px" id="img1" src="./assets/techstack/sass.png" alt="tech stack">
+<img style="width=50px; height="40px" id="img1" src="./assets/techstack/windows.png" alt="tech stack">
 </div>
