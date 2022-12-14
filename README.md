@@ -14,13 +14,27 @@
 <a href="https://twitter.com/SonuKr52616462"><img src="./assets/twitter.svg"></a>
 <a href="https://medium.com/@sonukryadav56"><img src="./assets/medium icon.svg"></a>
 
-<h3>Tech stack that know : </h3>
+<h3>Tech stack that i know : </h3>
 <hr>
 <div style="display:flex;">
-<img src="./assets/javascript.svg" alt="tech stack">
-<img src="./assets/css.svg" alt="tech stack">
-<img src="./assets/html.svg" alt="tech stack">
-<img src="./assets/nodejs.svg" alt="tech stack">
-<img src="./assets/react.svg" alt="tech stack">
-<img src="./assets/redux.svg" alt="tech stack">
+<img src="./assets/techstack/bootstarp.png" alt="tech stack">
+<img src="./assets/techstack/chakraui.png" alt="tech stack">
+<img src="./assets/techstack/css.png" alt="tech stack">
+<img src="./assets/techstack/firebase.png" alt="tech stack">
+<img src="./assets/techstack/git.png" alt="tech stack">
+<img src="./assets/techstack/github.png" alt="tech stack">
+<img src="./assets/techstack/html.png" alt="tech stack">
+<img src="./assets/techstack/intelij.png" alt="tech stack">
+<img src="./assets/techstack/java.png" alt="tech stack">
+<img src="./assets/techstack/javascript.png" alt="tech stack">
+<img src="./assets/techstack/material ui.png" alt="tech stack">
+<img src="./assets/techstack/nodejs.png" alt="tech stack">
+<img src="./assets/techstack/npm'.png" alt="tech stack">
+<img src="./assets/techstack/postman.png" alt="tech stack">
+<img src="./assets/techstack/react.png" alt="tech stack">
+<img src="./assets/techstack/redux.png" alt="tech stack">
+<img src="./assets/techstack/restapi.png" alt="tech stack">
+<img src="./assets/techstack" alt="tech stack">
+<img src="./assets/techstack/sass.png" alt="tech stack">
+<img src="./assets/techstack/windows.png" alt="tech stack">
 </div>
