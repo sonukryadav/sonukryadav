@@ -20,7 +20,7 @@
 <a href="https://twitter.com/SonuKr52616462"><img src="./assets/twitter.svg"></a>
 <a href="https://medium.com/@sonukryadav56"><img src="./assets/medium icon.svg"></a>
 
-<h2>Email : sonukryadav56@gmail.com</h2>
+<h2>Email :</h2>**sonukryadav56@gmail.com**
 
 <hr>
 <h2>Tech stack that I know  </h2>
