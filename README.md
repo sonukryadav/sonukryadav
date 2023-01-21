@@ -9,6 +9,15 @@
 <hr>
 <h2>Welcome to my Github space!</h2>
 <h3>I'm Sonu kumar Yadav, Full stack developer from Uttar Pradesh, India.</h3>
+<p>Result - driven web developer with
+business objective. Detail - oriented
+when crafting responsive website,
+and apps to propel competitive
+advantage in the market. Technically
+proficient and problem solver with a
+focused attitude.
+</p>
+
 
 ➡️ <a href="https://drive.google.com/file/d/1rNt7Y5VTeFUusZLMg9hOUQGh_wYduH79/view?usp=share_link">RESUME 📃</a>↔
 <a href="https://sonukr.in/">PORTFOLIO 🖥️</a>
