@@ -15,7 +15,9 @@ when crafting responsive website,
 and apps to propel competitive
 advantage in the market. Technically
 proficient and problem solver with a
-focused attitude.
+focused attitude.<br>
+If I need to define myself in one sentence that would be a curious young person, ready to start a career in the IT field, a good observer, an enthusiast, and tech-obsessed!!!<br>
+Looking forward to connect with you.
 </p>
 
 
