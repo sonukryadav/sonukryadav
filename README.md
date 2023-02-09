@@ -21,7 +21,7 @@ Looking forward to connect with you.
 </p>
 
 
-➡️ <a href="https://drive.google.com/file/d/1rNt7Y5VTeFUusZLMg9hOUQGh_wYduH79/view?usp=share_link">RESUME 📃</a>↔
+➡️ <a href="https://drive.google.com/file/d/122KRQEnSWFU3YnfyHmoRQzkeEqHuQ3b0/view?usp=share_link">RESUME 📃</a>↔
 <a href="https://sonukr.in/">PORTFOLIO 🖥️</a>
 
 <hr>
