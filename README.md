@@ -84,21 +84,8 @@ Looking forward to connect with you.
 <hr>
 
   <h2>Certifications: </h2>
-
-```html
-
-<iframe src="https://www.freecodecamp.org/certification/fcc55e67c3e-f191-4c28-83fc-2e20e45f2bd4/back-end-development-and-apis"></iframe>
-
-
-  <table>
-  <tr><td>
-<img width="250" height="auto" src="https://firebasestorage.googleapis.com/v0/b/neostats.appspot.com/o/FreeCodeCampJavaScriptDSACertificate.JPG?alt=media&token=92925bd3-b290-4777-83c0-c161ce068378" />    
-    </td>
-  <td>
-<img width="250" height="auto" src="https://firebasestorage.googleapis.com/v0/b/neostats.appspot.com/o/hackerRankReact.png?alt=media&token=c891d9f6-d2fd-4ceb-b2c3-6d49e4082630" />    
-    </td>
-  </tr>
-</table>
+  <p>🚀. <a href="https://www.freecodecamp.org/certification/fcc55e67c3e-f191-4c28-83fc-2e20e45f2bd4/back-end-development-and-apis"></a>Back End Development and APIs
+</p>
 
 
 
