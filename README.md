@@ -21,15 +21,15 @@ Looking forward to connect with you.
 </p>
 
 
-➡️ <a href="https://drive.google.com/file/d/122KRQEnSWFU3YnfyHmoRQzkeEqHuQ3b0/view?usp=share_link">RESUME 📃</a>↔
-<a href="https://sonukr.in/">PORTFOLIO 🖥️</a>
+➡️ <a href="https://drive.google.com/file/d/122KRQEnSWFU3YnfyHmoRQzkeEqHuQ3b0/view?usp=share_link" target="_blank" rel="noopener noreferrer">RESUME 📃</a>↔
+<a href="https://sonukr.in/" target="_blank" rel="noopener noreferrer">PORTFOLIO 🖥️</a>
 
 <hr>
 <h2>Socials</h2>
 
-<a href="https://www.linkedin.com/in/sonu-kumar-yadav-0a609b180/"><img src="./assets/linked in.svg"></a>
-<a href="https://twitter.com/SonuKr52616462"><img src="./assets/twitter.svg"></a>
-<a href="https://medium.com/@sonukryadav56"><img src="./assets/medium icon.svg"></a>
+<a href="https://www.linkedin.com/in/sonu-kumar-yadav-0a609b180/" target="_blank" rel="noopener noreferrer"><img src="./assets/linked in.svg"></a>
+<a href="https://twitter.com/SonuKr52616462" target="_blank" rel="noopener noreferrer"><img src="./assets/twitter.svg"></a>
+<a href="https://medium.com/@sonukryadav56" target="_blank" rel="noopener noreferrer"><img src="./assets/medium icon.svg"></a>
 
 <h2>Email :</h2>
 
@@ -84,8 +84,9 @@ Looking forward to connect with you.
 <hr>
 
   <h2>Certifications: </h2>
-  <p>🚀. <a href="https://www.freecodecamp.org/certification/fcc55e67c3e-f191-4c28-83fc-2e20e45f2bd4/back-end-development-and-apis">Back End Development and APIs</a>
+  <p>🚀. <a href="https://www.freecodecamp.org/certification/fcc55e67c3e-f191-4c28-83fc-2e20e45f2bd4/back-end-development-and-apis" target="_blank" rel="noopener noreferrer">Back End Development and APIs</a>
 </p>
-
+<p>🚀. <a href="https://drive.google.com/file/d/1vggmy9jYK9VDdUA_1_on7Qy2xwf9ZfqL/view" target="_blank" rel="noopener noreferrer">Programming in Java</a>
+</p>
 
 
