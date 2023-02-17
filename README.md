@@ -81,6 +81,13 @@ Looking forward to connect with you.
   
   [![GitHub Streak](https://streak-stats.demolab.com/?user=sonukryadav)](https://git.io/streak-stats)
 
+<hr>
+
+  <h2>Certifications: </h2>
+
+
+  <iframe src="https://www.freecodecamp.org/certification/fcc55e67c3e-f191-4c28-83fc-2e20e45f2bd4/back-end-development-and-apis"></iframe>
+
 
 
 
