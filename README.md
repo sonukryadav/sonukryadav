@@ -84,7 +84,7 @@ Looking forward to connect with you.
   
   
   <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=sonukryadav)](https://git.io/streak-stats) -->
-  <a href="http://www.github.com/sonukryadav"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Anjali280&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  <a href="http://www.github.com/sonukryadav"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sonukryadav&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <hr>
 
