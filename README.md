@@ -39,7 +39,7 @@ Looking forward to connect with you.
 <h2>Tech stack that I know  </h2>
 
 <div style="display:"flex";">
-<img style="width:50px height=40px" src="./assets/techstack/bootstarp.png" alt="tech stack">
+<img style="width="50px" height="40px" src="./assets/techstack/bootstarp.png" alt="tech stack">
 <img style="width="50px" height="40px" id="img1" src="./assets/techstack/chakraui.png" alt="tech stack">
 <img style="width="50px" height="40px" id="img1" src="./assets/techstack/css.png" alt="tech stack">
 <img style="width="50px" height="40px" id="img1" src="./assets/techstack/firebase.png" alt="tech stack">
@@ -68,7 +68,7 @@ Looking forward to connect with you.
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonukryadav&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<div style="display:flex">
+<div style="display:flex;justify-content:space-between;">
 
 <a href="http://www.github.com/sonukryadav"><img src="https://github-readme-stats.vercel.app/api?username=sonukryadav&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sonukryadav's GitHub stats" /></a>
 
