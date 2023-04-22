@@ -108,7 +108,7 @@ style="font-size:20px;font-weight:700; background-color:#000000; padding:10px" >
 <h1 style="color:#F2F2F2; margin-top:35px"><img src="./assets/blue fire.webp" style="width:20px;margin-right:10px"/>GitHub Stat Trophies</h1>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sonukryadav)](https://github.com/ryo-ma/sonukryadav)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sonukryadav&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <h1 style="color:#F2F2F2; margin-top:35px"><img src="./assets/blue fire.webp" style="width:20px;margin-right:10px"/>Streak Stats  </h1>
