@@ -41,7 +41,7 @@ style="font-size:20px;font-weight:700; background-color:#000000; padding:10px" >
 <a href="https://www.linkedin.com/in/sonu-kumar-yadav-0a609b180/" target="_blank" rel="noopener noreferrer"><img src="./assets/linked in.svg" style="width:140px; margin-right:10px"></a>
 <a href="https://twitter.com/SonuKr52616462" target="_blank" rel="noopener noreferrer"><img src="./assets/twitter.svg" style="width:120px; margin-right:10px"></a>
 <a href="https://medium.com/@sonukryadav56" target="_blank" rel="noopener noreferrer"><img src="./assets/medium icon.svg" style="width:140px; margin-right:10px"></a>
-</div>3
+</div>
 
 </div>
 
