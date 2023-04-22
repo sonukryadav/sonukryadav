@@ -122,6 +122,9 @@ style="font-size:20px;font-weight:700; background-color:#000000; padding:10px" >
 
 
 
+  | Github Stats | Current Strek  |
+| --- | --- |
+| ![Santosh2740 GitHub stats](https://github-readme-stats.vercel.app/api?username=Santosh2740&show_icons=true&theme=tokyonight) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Santosh2740&theme=tokyonight)](https://git.io/streak-stats) |
 
 
 
