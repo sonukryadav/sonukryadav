@@ -1,64 +1,85 @@
-<img src="https://camo.githubusercontent.com/417e6e178a69cc045c656d083ba983a59303f099087090269c01cacc6741ef29/68747470733a2f2f7170682e66732e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133" al="code gif">
-
-<hr>
-
 ![](https://komarev.com/ghpvc/?username=sonukryadav)
 
 
-<h1>Hi 🖐️ there! Good to see you. </h1>
+<div style="display:flex;margin-bottom:30px">
+<img src="./assets/poster1.gif" al="code gif" style="display:block; width:90%; margin-left: auto; margin-right:auto;">
+</div>
+
+
 <hr>
-<h2>Welcome to my Github space!</h2>
-<h3>I'm Sonu kumar Yadav, Full stack developer from Uttar Pradesh, India.</h3>
-<p >Result - driven web developer with
-business objective. Detail - oriented
-when crafting responsive website,
-and apps to propel competitive
-advantage in the market. Technically
-proficient and problem solver with a
-focused attitude.<br>
-If I need to define myself in one sentence that would be a curious young person, ready to start a career in the IT field, a good observer, an enthusiast, and tech-obsessed!!!<br>
-Looking forward to connect with you.
+
+
+<h1 style="color:#F2F2F2">Welcome to my Github space!</h1>
+
+<h3 style="color:#237BFF">I'm <span style="color:#F08C35">Sonu kumar Yadav,</span> React Native & Full stack developer from Uttar Pradesh, India.</h3>
+<p >As a fresh <span style="color:#237BFF">React Native developer</span>, I'm excited to dive headfirst into the world of mobile app development. I may be new to this field, but don't let that fool you - I'm armed with the <span style="color:#237BFF">latest coding techniques and a passion</span> for creating applications that will knock your socks off.<br>
+
+With <span style="color:#237BFF">React Native</span>, I can build apps that run on both <span style="color:#F08C35">iOS</span> and <span style="color:#F08C35">Android</span> platforms, which means I get to be a superhero without the cape. From <span style="color:#237BFF">designing sleek UIs</span> to <span style="color:#237BFF">integrating APIs</span>, I am eager to flex my coding muscles and create something truly unique.<br>
+
+I am always on the lookout for opportunities to collaborate and learn from others. After all, <span style="color:#237BFF">coding is a team sport</span>, and I'm ready to be a <span style="color:#F08C35">team player</span>. So let's work together to build something awesome and leave a lasting mark on the world of mobile app development.<br><br>
 </p>
 
 
-➡️ <a href="https://drive.google.com/file/d/122KRQEnSWFU3YnfyHmoRQzkeEqHuQ3b0/view?usp=share_link" target="_blank" rel="noopener noreferrer">RESUME 📃</a>↔
-<a href="https://sonukr.in/" target="_blank" rel="noopener noreferrer">PORTFOLIO 🖥️</a>
 
-<hr>
-<h2>Socials</h2>
 
-<a href="https://www.linkedin.com/in/sonu-kumar-yadav-0a609b180/" target="_blank" rel="noopener noreferrer"><img src="./assets/linked in.svg"></a>
-<a href="https://twitter.com/SonuKr52616462" target="_blank" rel="noopener noreferrer"><img src="./assets/twitter.svg"></a>
-<a href="https://medium.com/@sonukryadav56" target="_blank" rel="noopener noreferrer"><img src="./assets/medium icon.svg"></a>
+<div style="display:flex; justify-content:space-between">
 
-<h2>Email :</h2>
+
+<div>
+<h1 style="color:#F2F2F2;margin-top:15px">Important Links</h1>
+
+
+<a href="https://sonukr.in/" target="_blank" rel="noopener noreferrer" style="font-size:20px;font-weight:700;background-color:#000000; padding:10px;"> 📱 PORTFOLIO</a>
+<span style="font-size:25px;margin-left:15px; margin-right:15px">|</span>
+<a href="https://drive.google.com/file/d/122KRQEnSWFU3YnfyHmoRQzkeEqHuQ3b0/view?usp=share_link" target="_blank" rel="noopener noreferrer"
+style="font-size:20px;font-weight:700; background-color:#000000; padding:10px" >📃 RESUME  </a>
+</div>
+
+<div>
+<h1 style="color:#F2F2F2; margin-top:15px">Socials</h1>
+
+<a href="https://www.linkedin.com/in/sonu-kumar-yadav-0a609b180/" target="_blank" rel="noopener noreferrer"><img src="./assets/linked in.svg" style="width:140px; margin-right:10px"></a>
+<a href="https://twitter.com/SonuKr52616462" target="_blank" rel="noopener noreferrer"><img src="./assets/twitter.svg" style="width:120px; margin-right:10px"></a>
+<a href="https://medium.com/@sonukryadav56" target="_blank" rel="noopener noreferrer"><img src="./assets/medium icon.svg" style="width:140px; margin-right:10px"></a>
+</div>3
+
+</div>
+
+
+<h1 style="color:#F2F2F2; margin-top:25px">Email </h1>
+<h2>
 
 **sonukryadav56@gmail.com**
+</h2>
 
-<hr>
-<h2>Tech stack that I know  </h2>
+
+
+
+
+
+<h1 style="color:#F2F2F2; margin-top:35px">Tech stack that I know  </h1>
 
 <div style="display:"flex";">
-<img style="width="50px" height="40px" src="./assets/techstack/bootstarp.png" alt="tech stack">
-<img style="width="50px" height="40px" id="img1" src="./assets/techstack/chakraui.png" alt="tech stack">
-<img style="width="50px" height="40px" id="img1" src="./assets/techstack/css.png" alt="tech stack">
-<img style="width="50px" height="40px" id="img1" src="./assets/techstack/firebase.png" alt="tech stack">
-<img style="width="50px" height="40px" id="img1" src="./assets/techstack/git.png" alt="tech stack">
-<img style="width="50px" height="40px" id="img1" src="./assets/techstack/github.png" alt="tech stack">
-<img style="width="50px" height="40px" id="img1" src="./assets/techstack/html.png" alt="tech stack">
-<img style="width="50px" height="40px" id="img1" src="./assets/techstack/intelij.png" alt="tech stack">
-<img style="width="50px" height="40px" id="img1" src="./assets/techstack/java.png" alt="tech stack">
-<img style="width="50px" height="40px" id="img1" src="./assets/techstack/javascript.png" alt="tech stack">
-<img style="width="50px" height="40px" id="img1" src="./assets/techstack/material ui.png" alt="tech stack">
-<img style="width="50px" height="40px" id="img1" src="./assets/techstack/nodejs.png" alt="tech stack">
-<img style="width="50px" height="40px" id="img1" src="./assets/techstack/npm'.png" alt="tech stack">
-<img style="width="50px" height="40px" id="img1" src="./assets/techstack/postman.png" alt="tech stack">
-<img style="width="50px" height="40px" id="img1" src="./assets/techstack/react.png" alt="tech stack">
-<img style="width="50px" height="40px" id="img1" src="./assets/techstack/redux.png" alt="tech stack">
-<img style="width="50px" height="40px" id="img1" src="./assets/techstack/restapi.png" alt="tech stack">
-<img style="width="50px" height="40px" id="img1" src="./assets/techstack/sass.png" alt="tech stack">
-<img style="width="50px" height="40px" id="img1" src="./assets/techstack/windows.png" alt="tech stack">
-</div>
+<img style="width:50px; height:50px;" src="./assets/techstack/bootstarp.png" alt="tech stack">
+<img style="width:50px; height:50px;" id="img1" src="./assets/techstack/chakraui.png" alt="tech stack">
+<img style="width:50px; height:50px;" id="img1" src="./assets/techstack/css.png" alt="tech stack">
+<img style="width:50px; height:50px;" id="img1" src="./assets/techstack/firebase.png" alt="tech stack">
+<img style="width:50px; height:50px;" id="img1" src="./assets/techstack/git.png" alt="tech stack">
+<img style="width:50px; height:50px;" id="img1" src="./assets/techstack/github.png" alt="tech stack">
+<img style="width:50px; height:50px;" id="img1" src="./assets/techstack/html.png" alt="tech stack">
+<img style="width:50px; height:50px;" id="img1" src="./assets/techstack/intelij.png" alt="tech stack">
+<img style="width:50px; height:50px;" id="img1" src="./assets/techstack/java.png" alt="tech stack">
+<img style="width:50px; height:50px;" id="img1" src="./assets/techstack/javascript.png" alt="tech stack">
+<img style="width:50px; height:50px;" id="img1" src="./assets/techstack/material ui.png" alt="tech stack">
+<img style="width:50px; height:50px;" id="img1" src="./assets/techstack/nodejs.png" alt="tech stack">
+<img style="width:50px; height:50px;" id="img1" src="./assets/techstack/npm'.png" alt="tech stack">
+<img style="width:50px; height:50px;" id="img1" src="./assets/techstack/postman.png" alt="tech stack">
+<img style="width:50px; height:50px;" id="img1" src="./assets/techstack/react.png" alt="tech stack">
+<img style="width:50px; height:50px;" id="img1" src="./assets/techstack/redux.png" alt="tech stack">
+<img style="width:50px; height:50px;" id="img1" src="./assets/techstack/restapi.png" alt="tech stack">
+<img style="width:50px; height:50px;" id="img1" src="./assets/techstack/sass.png" alt="tech stack">
+<img style="width:50px; height:50px;" id="img1" src="./assets/techstack/windows.png" alt="tech stack">
+</>
 
 <hr>
 
