@@ -27,7 +27,7 @@ I am always on the lookout for opportunities to collaborate and learn from other
 <h1 style="color:#F2F2F2;margin-top:15px"><img src="./assets/blue fire.webp" style="width:20px;margin-right:10px"/>Important Links</h1>
 
 <h2>
-<a href="https://sonukr.in/" target="_blank" rel="noopener noreferrer" style="font-size:20px;font-weight:700;background-color:#000000; padding:10px;"> 📱 PORTFOLIO</a>
+<a href="https://sonukryadav.github.io/" target="_blank" rel="noopener noreferrer" style="font-size:20px;font-weight:700;background-color:#000000; padding:10px;"> 📱 PORTFOLIO</a>
 <span style="font-size:25px;margin-left:15px; margin-right:15px">|</span>
 <a href="https://drive.google.com/file/d/122KRQEnSWFU3YnfyHmoRQzkeEqHuQ3b0/view?usp=share_link" target="_blank" rel="noopener noreferrer"
 style="font-size:20px;font-weight:700; background-color:#000000; padding:10px" >📃 RESUME  </a>
@@ -108,7 +108,7 @@ style="font-size:20px;font-weight:700; background-color:#000000; padding:10px" >
 <h1 style="color:#F2F2F2; margin-top:35px"><img src="./assets/blue fire.webp" style="width:20px;margin-right:10px"/>GitHub Stat Trophies</h1>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sonukryadav&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sonukryadav&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <h1 style="color:#F2F2F2; margin-top:35px"><img src="./assets/blue fire.webp" style="width:20px;margin-right:10px"/>Streak Stats  </h1>
