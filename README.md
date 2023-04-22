@@ -21,29 +21,26 @@ I am always on the lookout for opportunities to collaborate and learn from other
 
 
 
-
-<div style="display:flex; justify-content:space-between">
-
-
-<div>
-<h1 style="color:#F2F2F2;margin-top:15px">Important Links</h1>
+<table>
+  <tr>
+    <td>
+    <h1 style="color:#F2F2F2;margin-top:15px">Important Links</h1>
 
 
 <a href="https://sonukr.in/" target="_blank" rel="noopener noreferrer" style="font-size:20px;font-weight:700;background-color:#000000; padding:10px;"> 📱 PORTFOLIO</a>
 <span style="font-size:25px;margin-left:15px; margin-right:15px">|</span>
 <a href="https://drive.google.com/file/d/122KRQEnSWFU3YnfyHmoRQzkeEqHuQ3b0/view?usp=share_link" target="_blank" rel="noopener noreferrer"
 style="font-size:20px;font-weight:700; background-color:#000000; padding:10px" >📃 RESUME  </a>
-</div>
-
-<div>
-<h1 style="color:#F2F2F2; margin-top:15px">Socials</h1>
+    </td>
+    <td>
+    <h1 style="color:#F2F2F2; margin-top:15px">Socials</h1>
 
 <a href="https://www.linkedin.com/in/sonu-kumar-yadav-0a609b180/" target="_blank" rel="noopener noreferrer"><img src="./assets/linked in.svg" style="width:130px; margin-right:10px"></a>
 <a href="https://twitter.com/SonuKr52616462" target="_blank" rel="noopener noreferrer"><img src="./assets/twitter.svg" style="width:120px; margin-right:10px"></a>
 <a href="https://medium.com/@sonukryadav56" target="_blank" rel="noopener noreferrer"><img src="./assets/medium icon.svg" style="width:130px; margin-right:10px"></a>
-</div>
-
-</div>
+    </td>
+  </tr>
+</table>
 
 
 <h1 style="color:#F2F2F2; margin-top:25px">Email </h1>
@@ -121,10 +118,10 @@ style="font-size:20px;font-weight:700; background-color:#000000; padding:10px" >
 </p>
 
 
-
-  | Github Stats | Current Strek  |
+<!-- table -->
+  <!-- | Github Stats | Current Strek  |
 | --- | --- |
-| ![Santosh2740 GitHub stats](https://github-readme-stats.vercel.app/api?username=Santosh2740&show_icons=true&theme=tokyonight) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Santosh2740&theme=tokyonight)](https://git.io/streak-stats) |
+| ![Santosh2740 GitHub stats](https://github-readme-stats.vercel.app/api?username=Santosh2740&show_icons=true&theme=tokyonight) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Santosh2740&theme=tokyonight)](https://git.io/streak-stats) | -->
 
 
 
