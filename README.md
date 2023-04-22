@@ -32,6 +32,9 @@ I am always on the lookout for opportunities to collaborate and learn from other
 <a href="https://drive.google.com/file/d/122KRQEnSWFU3YnfyHmoRQzkeEqHuQ3b0/view?usp=share_link" target="_blank" rel="noopener noreferrer"
 style="font-size:20px;font-weight:700; background-color:#000000; padding:10px" >📃 RESUME  </a>
 <h2>
+
+
+
 </div>
 
 <div>
@@ -105,7 +108,7 @@ style="font-size:20px;font-weight:700; background-color:#000000; padding:10px" >
 <h1 style="color:#F2F2F2; margin-top:35px"><img src="./assets/blue fire.webp" style="width:20px;margin-right:10px"/>GitHub Stat Trophies</h1>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/sonukryadav)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sonukryadav)](https://github.com/ryo-ma/sonukryadav)
 
 
 <h1 style="color:#F2F2F2; margin-top:35px"><img src="./assets/blue fire.webp" style="width:20px;margin-right:10px"/>Streak Stats  </h1>
