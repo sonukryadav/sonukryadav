@@ -12,12 +12,26 @@
 <h1 align="center"><img src="./assets/blue fire.webp" style="width:20px;margin-right:10px"/>Welcome to my Github space!<img src="./assets/blue fire.webp" style="width:20px;margin-left:10px"/></h1>
 
 <h3 style="color:#237BFF">I'm <span style="color:#F08C35">Sonu kumar Yadav,</span> React Native & Full stack developer from Uttar Pradesh, India.</h3>
-<p >As a fresh <span style="color:#237BFF">React Native developer</span>, I'm excited to dive headfirst into the world of mobile app development. I may be new to this field, but don't let that fool you - I'm armed with the <span style="color:#237BFF">latest coding techniques and a passion</span> for creating applications that will knock your socks off.<br>
-
-With <span style="color:#237BFF">React Native</span>, I can build apps that run on both <span style="color:#F08C35">iOS</span> and <span style="color:#F08C35">Android</span> platforms, which means I get to be a superhero without the cape. From <span style="color:#237BFF">designing sleek UIs</span> to <span style="color:#237BFF">integrating APIs</span>, I am eager to flex my coding muscles and create something truly unique.<br>
-
-I am always on the lookout for opportunities to collaborate and learn from others. After all, <span style="color:#237BFF">coding is a team sport</span>, and I'm ready to be a <span style="color:#F08C35">team player</span>. So let's work together to build something awesome and leave a lasting mark on the world of mobile app development.<br><br>
-</p>
+<p id="aboutText1" style="color:white;">As a <span style="color:#237BFF">Full stack developer </span>, I'm excited to dive headfirst into the world of
+                        mobile and web apps development. I have a half year experience in these field, but don't let that fool you - I'm armed with
+                        the <span style="color:#237BFF">latest coding techniques and a passion</span> for creating
+                        applications that will knock
+                        your socks off.<br><br>
+                        With <span style="color:#237BFF">React Native</span>, I can build apps that run on both <span
+                            style="color:#F08C35">iOS</span> and <span style="color:#F08C35">Android</span> platforms and <span style="color:#237BFF">MERN</span> for <span style="color:#F08C35">web apps</span>,
+                        which means I get to
+                        be a superhero without the cape. From <span style="color:#237BFF">designing sleek UIs</span> to
+                        <span style="color:#237BFF">integrating APIs</span>, I am eager to flex my coding muscles and
+                        create something truly
+                        unique.<br><br>
+                        I am always on the lookout for opportunities to collaborate and learn from others. After all,
+                        <span style="color:#237BFF">coding is a team sport</span>, and I'm ready to be a <span
+                            style="color:#F08C35">team
+                            player</span>. So let's work together to build something awesome and leave a lasting mark on
+                        the world of mobile
+                        app development.<br><br>
+                        Thank you.
+                    </p>
 
 
 <div style="display:flex; justify-content:space-between">
